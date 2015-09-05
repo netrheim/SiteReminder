@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Site Reminder</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="emptyText">no date</string>
+</resources>
